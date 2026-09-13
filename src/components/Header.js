@@ -1,0 +1,1 @@
+console.log("hedaer is a component")
